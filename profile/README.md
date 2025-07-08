@@ -1,6 +1,7 @@
-# 🚀 Sempiterno Solution
+![Sempiterno Solution](./assets/logotipo_ss.png)
 
-**Innovación digital sin límites. Creamos tecnología que trasciende.**
+🚀 Innovación sin límites con propósito real. Construyendo soluciones **sempiternas**.
+<!-- **🚀 Innovación digital sin límites. Creamos tecnología que trasciende.** -->
 
 ---
 
