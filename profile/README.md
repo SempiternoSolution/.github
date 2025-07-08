@@ -151,7 +151,7 @@ Liderado por [Gallbers Gallardo](https://github.com/gagzu) – *Founder · CEO &
 ## 🧭 ¿Querés colaborar?
 
 Estamos siempre abiertos a nuevos desafíos, sinergias y proyectos con propósito.  
-💬 [Escribinos](mailto:hi@sempiternosolution.com) y veamos qué podemos construir juntos.
+💬 [Escribenos](mailto:hi@sempiternosolution.com) y veamos qué podemos construir juntos.
 
 ---
 
