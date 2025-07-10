@@ -1,4 +1,4 @@
-![Sempiterno Solution](./assets/logotipo_ss.png)
+![Sempiterno Solution](./assets/logotipo_ss_color_fondo.jpg)
 
 🚀 Innovación sin límites con propósito real. Construyendo soluciones **sempiternas**.
 <!-- **🚀 Innovación digital sin límites. Creamos tecnología que trasciende.** -->
